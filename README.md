@@ -1,5 +1,5 @@
 ## Purpose
-A partial requirement for IT102P Object Oriented Programming (2nd Year)
+A partial requirement for IT102P Object Oriented Programming
 
 ## Members
 - Adzis Abpet
